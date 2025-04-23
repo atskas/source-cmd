@@ -1,6 +1,7 @@
 # source-cmd
 
 A Windows Command Prompt–style console built with Qt, inspired by the **Source Engine** developer console.
+Designed primarily for Windows (uses `cmd.exe`), with basic support for Linux/macOS using `bash`.
 
 
 ## Features
