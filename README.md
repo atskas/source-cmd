@@ -9,8 +9,8 @@ A Windows Command Prompt–style console built with Qt, inspired by the **Source
 - Output displayed immediately in the console window.
 - Clear console with `clear` or `clr` commands.
 - Scrollable, selectable text output.
-- Cross-platform command execution (Windows and Unix shells).
-- Close approximation of Source Engine console style.
+- Cross-platform command execution.
+- Closely replicates Source Engine's console style.
 
 
 
