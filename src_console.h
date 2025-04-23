@@ -22,6 +22,7 @@ private slots:
 
     void on_pushButton_3_clicked();
 
+
 private:
     Ui::src_console *ui;
 };

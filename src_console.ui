@@ -54,6 +54,12 @@ background-color: rgb(100, 100, 100);
     </item>
     <item row="2" column="0">
      <widget class="QLineEdit" name="consoleInput">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>30</height>
+       </size>
+      </property>
       <property name="font">
        <font>
         <family>Terminal</family>
@@ -84,6 +90,12 @@ background-color: rgb(100, 100, 100);
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>30</height>
+       </size>
       </property>
       <property name="font">
        <font>
