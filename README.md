@@ -3,7 +3,7 @@
 A Windows Command Prompt–style console built with Qt, inspired by the **Source Engine** developer console.
 Designed primarily for Windows (uses `cmd.exe`), with basic support for Linux/macOS using `bash`.
 
-Currently, pre-built binaries are only provided for **Windows**.
+Currently, only the **Windows** release is available to download, **Linux/macOS** users need to build the program themselves.
 
 
 ## Features
