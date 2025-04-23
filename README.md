@@ -19,6 +19,7 @@ Note: Some features, such as text color changing, are currently not supported.
 
 
 
+
 **Version 1.1**
 
 ![console (2)](https://github.com/user-attachments/assets/7d51dccc-cee7-4b20-8544-45420dfbcd6c)
