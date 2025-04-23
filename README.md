@@ -14,8 +14,8 @@ Currently, only the **Windows** release is available to download, **Linux/macOS*
 - Scrollable, selectable text output.
 - Cross-platform command execution.
 - Closely replicates Source Engine's console style.
+  
 Note: Some features, such as text color changing, are currently not supported.
-
 
 
 
