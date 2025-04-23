@@ -21,6 +21,12 @@ void src_console::on_consoleInput_returnPressed()
     QString input = ui->consoleInput->text();
     if (input.isEmpty()) return;
 
+    if (input == "clear" || input == "clr") {
+        ui->console->clear();
+        ui->consoleInput->clear();
+        return;
+    }
+
     std::cout << "Input received" << std::endl;
     ui->consoleInput->clear();
     ui->console->append(input);

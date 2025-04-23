@@ -18,8 +18,7 @@ HEADERS += \
 FORMS += \
     src_console.ui
 
-TRANSLATIONS += \
-    SourceConsole_en_001.ts
+TRANSLATIONS +=
 CONFIG += lrelease
 CONFIG += embed_translations
 
