@@ -15,7 +15,7 @@ Currently, only the **Windows** release is available to download, **Linux/macOS*
 - Cross-platform command execution.
 - Closely replicates Source Engine's console style.
   
-Note: Some features, such as text color changing, are currently not supported.
+Note: Some features, such as text color changing, are currently not supported. You also might experience freezes and crashes.
 
 
 
